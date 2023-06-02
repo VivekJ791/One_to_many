@@ -1,0 +1,12 @@
+com\example\OneToManyApplication.class
+com\example\repo\PostRepo.class
+com\example\services\CommentServices.class
+com\example\entity\Post.class
+com\example\entity\Comment.class
+com\example\services\CommentServicesImpl.class
+com\example\repo\CommentRepo.class
+com\example\services\PostServices.class
+com\example\services\PostServicesImpl.class
+com\example\entity\Comment$CommentBuilder.class
+com\example\entity\Post$PostBuilder.class
+com\example\controller\PostController.class
